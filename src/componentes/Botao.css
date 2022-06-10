@@ -1,0 +1,11 @@
+button{
+    
+    margin-top: 30px;
+    padding: 8px;
+    width: 90px;
+   }
+
+button:hover {
+    background-color: rgb(110, 110, 110);
+    color:aliceblue;
+  }
