@@ -1,7 +1,16 @@
 body {
+<<<<<<< HEAD
     background: rgb(9,6,51);
     background: linear-gradient(90deg, #090633 0%, rgba(137,37,147,1) 50%, rgba(9,6,51,1) 100%);
 }
+=======
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 8%, rgba(119,32,127,1) 51%, rgba(7,128,184,1) 85%);
+}
+
+
+
+>>>>>>> 873f8e42353d71f8e81c0c10bd5953ca3af4efd8
 .Cadastre {
     display: flex;
     justify-content:end;

@@ -3,6 +3,7 @@ button{
     margin-top: 30px;
     padding: 8px;
     width: 90px;
+<<<<<<< HEAD
     padding: 10px;
     box-shadow: black 2px 2px 2px 1px ;
     border: solid 1px rgb(53, 53, 53);
@@ -12,9 +13,15 @@ button{
     font-size: 15px;
     border-radius: 30px;
     
+=======
+>>>>>>> 873f8e42353d71f8e81c0c10bd5953ca3af4efd8
    }
 
 button:hover {
     background-color: rgb(110, 110, 110);
     color:aliceblue;
+<<<<<<< HEAD
 }
+=======
+  }
+>>>>>>> 873f8e42353d71f8e81c0c10bd5953ca3af4efd8

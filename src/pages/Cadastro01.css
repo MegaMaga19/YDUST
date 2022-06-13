@@ -13,7 +13,15 @@ body {
   }
   
   .titulo {
+<<<<<<< HEAD
     margin-bottom: -45px;
+=======
+    color:aliceblue;
+    font-weight: bolder;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+>>>>>>> 873f8e42353d71f8e81c0c10bd5953ca3af4efd8
   }
   
   .cadastro {

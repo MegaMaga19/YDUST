@@ -18,6 +18,7 @@ const Cadastro01= function() {
 
         return (
         <div className='cadastro01'>
+<<<<<<< HEAD
           
           <img src={Img} className='titulo' alt="livro" />
           <div className='cadastro'>
@@ -29,6 +30,14 @@ const Cadastro01= function() {
             <br></br>
             <input type="text" placeholder='Digite seu CPF' className='campo' />
             <br></br>
+=======
+          <h1 className='titulo'>Ydust</h1>
+          <div className='cadastro'>
+            <input type="text" placeholder='Nome de usuário' className='campo'/>
+            <input type="password" placeholder='Digite sua senha' className='campo'/>
+            <input type="text" placeholder='Digite seu Email' className='campo' />
+            <input type="text" placeholder='Digite seu CPF' className='campo' />
+>>>>>>> 873f8e42353d71f8e81c0c10bd5953ca3af4efd8
             <input type="text" placeholder='Digite sua Data de Nascimento' className='campo'/>
             <Botao texto='Salvar' clique={botaoSalvarClicado}/>
           </div>        
