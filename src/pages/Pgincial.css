@@ -1,0 +1,44 @@
+body {
+    background: rgb(9,6,51);
+    background: linear-gradient(90deg, #090633 0%, rgba(137,37,147,1) 50%, rgba(9,6,51,1) 100%);
+}
+.Cadastre {
+    display: flex;
+    justify-content:end;
+    margin: 0px;
+    margin-top: -200px;
+    margin-bottom: 230px;
+    margin-right: 40px;
+}
+
+.Cadastrob {
+    background-color: rgb(74, 74, 87);
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+button:hover{
+    background-color: rgb(90, 90, 90);
+    padding: 11px;
+}
+
+.Img01 {
+  margin-left: 20px;
+}
+
+.Introducao {
+    color: aliceblue;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+
+.pesquisar{
+    display: flex;
+    justify-content: end;
+    margin-top: -220px;
+    margin-bottom: 200px;
+    
+}
+

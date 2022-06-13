@@ -1,26 +1,13 @@
 import './App.css';
+import Pg01Page from './pages/pg01';
+import Cadastro01 from './pages/Cadastro01';
+import Pgincial from './pages/Pgincial';
 
-function App() {
+function App (){
   return (
-    <>
-      <h1>Ydust</h1>
-      <div className='cadastro'>
-        <input type="text" placeholder='Nome de usuário' className='Usu01'/>
-        <input type="password" placeholder='Digite sua senha' className='senha'/>
-        <button>Salvar</button>
-
-      </div>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </>
+    
+    <Cadastro01/>
   );
-}
+};
 
 export default App;
