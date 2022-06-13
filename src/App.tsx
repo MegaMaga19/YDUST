@@ -8,7 +8,7 @@ function App (){
   return (
     
     <Cadastro01/>
-=======
+  )
 import Cabecalho from './componentes/Cabecalho';
 
 function App (){
